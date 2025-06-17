@@ -68,6 +68,6 @@ oncogene-sql-analysis/
 [LinkedIn](https://www.linkedin.com/in/giulio-pacchiarotti-4aab80265)
 
 ##  Acknowledgments
+This republished version is based on an original collaboration developed with Diego Aicuone and Aurora Odierno, 
+originally published at [diego-iac/Database_Oncogeni](https://github.com/diego-iac/Database_Oncogeni).
 
-This project is based on an original collaboration with  
-[diego-iac/Database_Oncogeni](https://github.com/diego-iac/Database_Oncogeni)
