@@ -3,7 +3,7 @@
 This project builds a structured SQL database for exploring oncogenes, their protein products, functional motifs, and signaling pathways.  
 The data is collected from biomedical sources and stored in normalized SQL tables to enable complex analytical queries.
 
-Originally developed in collaboration with **Diego Aicuone** and **Aurora Odierno**, this project has been restructured and republished by **Giulio Pacchiarotti** for improved readability, modularity, and GitHub publication.
+Originally developed in collaboration with **Diego Iacuone** and **Aurora Odierno**, this project has been restructured and republished by **Giulio Pacchiarotti** for improved readability, modularity, and GitHub publication.
 
 ##  Project Structure
 
